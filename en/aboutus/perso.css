@@ -1,0 +1,77 @@
+#cssmenu {
+    background: -webkit-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* Chrome 10+, Saf5.1+ */
+    background: -moz-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* FF3.6+ */
+    background: -ms-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* IE10 */
+    background: -o-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* Opera 11.10+ */
+    background: linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* W3C */
+}
+
+.active {
+    background-color: black;
+}
+
+#anchor2 {
+    background: -webkit-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* Chrome 10+, Saf5.1+ */
+    background: -moz-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* FF3.6+ */
+    background: -ms-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* IE10 */
+    background: -o-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* Opera 11.10+ */
+    background: linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* W3C */
+}
+
+.container {
+    width: 100%;
+    color: white;
+    background: -webkit-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* Chrome 10+, Saf5.1+ */
+    background: -moz-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* FF3.6+ */
+    background: -ms-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* IE10 */
+    background: -o-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* Opera 11.10+ */
+    background: linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+    /* W3C */
+}
+
+.copyright {
+    height: 800px;
+}
+
+.col-sm-4 {
+    font-family: HacenTunisiaLt;
+    font-size: 16px;
+    direction: rtl;
+}
+
+.copyright-header {
+    font-family: HacenTunisiaLt;
+    font-size: 16px;
+}
+
+.lastli {
+    font-family: HacenTunisiaLt;
+    font-size: 16px;
+}
+
+.team_bg {
+    background: -webkit-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* Chrome 10+, Saf5.1+ */
+    background: -moz-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* FF3.6+ */
+    background: -ms-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* IE10 */
+    background: -o-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* Opera 11.10+ */
+    background: linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+    /* W3C */
+}
